@@ -186,4 +186,6 @@ body{
 	border-style: solid;
 	border-width: thin;
 	border-color: black;
+	display: block;
+	float: left;
 }
