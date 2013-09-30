@@ -189,3 +189,9 @@ body{
 	display: block;
 	float: left;
 }
+#slidergroup{
+	max-width: 70%
+}
+#keepconnected{
+	max-width: 30%
+}
