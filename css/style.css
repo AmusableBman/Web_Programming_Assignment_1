@@ -133,25 +133,21 @@ html{
 	background: -ms-linear-gradient(top,  #00eaf7 0%,#009ec3 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #00eaf7 0%,#009ec3 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00eaf7', endColorstr='#009ec3',GradientType=0 ); /* IE6-9 */
-
-}
-
-body{
-
+	
 }
 
 #logo{
 	font-family: 'Prosto One', cursive;
 	-webkit-border-radius: 70px;
 	border-radius: 70px;
-	background: #b3dced; /* Old browsers */
-	background: -moz-radial-gradient(center, ellipse cover,  #b3dced 0%, #29b8e5 50%, #bce0ee 100%); /* FF3.6+ */
-	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#b3dced), color-stop(50%,#29b8e5), color-stop(100%,#bce0ee)); /* Chrome,Safari4+ */
-	background: -webkit-radial-gradient(center, ellipse cover,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-radial-gradient(center, ellipse cover,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* Opera 12+ */
-	background: -ms-radial-gradient(center, ellipse cover,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* IE10+ */
-	background: radial-gradient(ellipse at center,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	background: #f0b7a1; /* Old browsers */
+	background: -moz-radial-gradient(center, ellipse cover,  #f0b7a1 0%, #8c3310 50%, #752201 51%, #bf6e4e 100%); /* FF3.6+ */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#f0b7a1), color-stop(50%,#8c3310), color-stop(51%,#752201), color-stop(100%,#bf6e4e)); /* Chrome,Safari4+ */
+	background: -webkit-radial-gradient(center, ellipse cover,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-radial-gradient(center, ellipse cover,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* IE10+ */
+	background: radial-gradient(ellipse at center,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 #name{
 	font-size:2em;
@@ -163,6 +159,8 @@ body{
 
 .button{
 	text-align: center;	
-	border-style:solid;
-	border-color:red;
+	border-style:outset;
+	max-width: 30px;
+	display: block;
+	float: left;
 }
