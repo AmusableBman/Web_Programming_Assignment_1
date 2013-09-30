@@ -28,26 +28,28 @@ function contactMeActive()
   pageInUse.setAttribute("style","width: 500px; background-color: yellow;");
 }
 
-function homeRedir()
-{
-  
-  
+button1.onclick=function(){
+  window.location.assign("index.html")
 }
 
-function homeRedir()
-{
-  
-  
+button2.onclick=function(){
+  window.location.assign("aboutme.html")
 }
 
-function homeRedir()
-{
-  
-  
+button3.onclick=function(){
+  window.location.assign("projects.html")
 }
 
-function homeRedir()
-{
-  
-  
+button4.onclick=function(){
+  window.location.assign("services.html")
 }
+
+button5.onclick=function(){
+  window.location.assign("contactme.html")
+}
+
+button6.onclick=function(){
+  window.location.assign("http://www.w3schools.com")
+}
+
+
