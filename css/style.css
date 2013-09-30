@@ -171,7 +171,6 @@ body{
 	border-style:outset;
 	max-width: 10%;
 	display: block;
-	float: left;
 	border-color: green;
 }
 #buttons{
