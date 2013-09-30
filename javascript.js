@@ -29,23 +29,23 @@ function contactMeActive()
 }
 
 button1.onclick=function(){
-  window.location.assign("index.html");
+  window.location.assign("index.php");
 }
 
 button2.onclick=function(){
-  window.location.assign("aboutme.html");
+  window.location.assign("aboutme.php");
 }
 
 button3.onclick=function(){
-  window.location.assign("projects.html");
+  window.location.assign("projects.php");
 }
 
 button4.onclick=function(){
-  window.location.assign("services.html");
+  window.location.assign("services.php");
 }
 
 button5.onclick=function(){
-  window.location.assign("contactme.html");
+  window.location.assign("contactme.php");
 }
 
 button6.onclick=function(){
