@@ -168,3 +168,9 @@ body{
 #desc{
 	font-size: 0.5em;
 }
+
+.button{
+	text-align: center;	
+	border-style:solid;
+	border-color:red;
+}
