@@ -148,6 +148,8 @@ html{
 	background: -ms-radial-gradient(center, ellipse cover,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* IE10+ */
 	background: radial-gradient(ellipse at center,  #f0b7a1 0%,#8c3310 50%,#752201 51%,#bf6e4e 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', endColorstr='#bf6e4e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	text-align: center;
+	max-width: 30%
 }
 #name{
 	font-size:2em;
@@ -160,7 +162,8 @@ html{
 .button{
 	text-align: center;	
 	border-style:outset;
-	max-width: 30px;
+	max-width: 10%;
 	display: block;
 	float: left;
+	color: green;
 }
