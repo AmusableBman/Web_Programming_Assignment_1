@@ -34,7 +34,7 @@ require_once 'header.html';
 </p><br />
 
 <p>
-  Please <a href="contactme.html">contact me</a> by Email about services. 
+  Please <a href="contactme.php">contact me</a> by Email about services. 
 </p>
 
 <?php 
