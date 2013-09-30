@@ -161,3 +161,10 @@ body{
 	background: radial-gradient(ellipse at center,  #b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
+#name{
+	font-size:2em;
+}
+
+#desc{
+	font-size: 0.5em;
+}
