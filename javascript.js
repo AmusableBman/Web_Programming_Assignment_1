@@ -29,27 +29,27 @@ function contactMeActive()
 }
 
 button1.onclick=function(){
-  window.location.assign("index.html")
+  window.location.assign("index.html");
 }
 
 button2.onclick=function(){
-  window.location.assign("aboutme.html")
+  window.location.assign("aboutme.html");
 }
 
 button3.onclick=function(){
-  window.location.assign("projects.html")
+  window.location.assign("projects.html");
 }
 
 button4.onclick=function(){
-  window.location.assign("services.html")
+  window.location.assign("services.html");
 }
 
 button5.onclick=function(){
-  window.location.assign("contactme.html")
+  window.location.assign("contactme.html");
 }
 
 button6.onclick=function(){
-  window.location.assign("http://www.w3schools.com")
+  window.location.assign("https://github.com/AmusableBman/Web_Programming_Assignment_1");
 }
 
 
