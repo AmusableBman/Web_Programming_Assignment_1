@@ -179,3 +179,8 @@ body{
 	max-width: 50%;
 	text-align: center;
 }
+#slidergroup{
+	-webkit-border-radius: 70px;
+	border-radius: 70px;
+	text-align: center;
+}
