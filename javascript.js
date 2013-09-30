@@ -27,3 +27,27 @@ function contactMeActive()
   var pageInUse = document.getElementById("button5");
   pageInUse.setAttribute("style","width: 500px; background-color: yellow;");
 }
+
+function homeRedir()
+{
+  
+  
+}
+
+function homeRedir()
+{
+  
+  
+}
+
+function homeRedir()
+{
+  
+  
+}
+
+function homeRedir()
+{
+  
+  
+}
