@@ -125,6 +125,10 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
 /*End of Slider CSS, from http://codepen.io/AMKohn/pen/EKJHf*/
 
 html{
+	height:100%;
+}
+
+body{
 	background: #00eaf7; /* Old browsers */
 	background: -moz-linear-gradient(top,  #00eaf7 0%, #009ec3 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00eaf7), color-stop(100%,#009ec3)); /* Chrome,Safari4+ */
@@ -133,7 +137,6 @@ html{
 	background: -ms-linear-gradient(top,  #00eaf7 0%,#009ec3 100%); /* IE10+ */
 	background: linear-gradient(to bottom,  #00eaf7 0%,#009ec3 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00eaf7', endColorstr='#009ec3',GradientType=0 ); /* IE6-9 */
-	
 }
 
 #logo{
