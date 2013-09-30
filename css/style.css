@@ -186,12 +186,4 @@ body{
 	border-style: solid;
 	border-width: thin;
 	border-color: black;
-	display: block;
-	float: left;
-}
-#slidergroup{
-	max-width: 70%
-}
-#keepconnected{
-	max-width: 30%
 }
