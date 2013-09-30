@@ -74,7 +74,12 @@ Slider from http://codepen.io/AMKohn/pen/EKJHf
 		</li>
 	</ul>
 </div>
-
+<div id="keepconnected">
+	<p>Keep Connected</p>
+	<a href="https://www.facebook.com/brandon.hewlett.79">Facebook</a>
+	<a href="https://twitter.com/AmusableBman">Twitter</a>
+	<a href="https://github.com/AmusableBman">GitHub</a>
+</div>
 <?php 
 require_once 'footer.html';
 ?>
