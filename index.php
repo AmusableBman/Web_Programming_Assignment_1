@@ -11,7 +11,7 @@ require_once 'header.html';
     Hello, fellow coders!
   </h1>
   
-  <p id="welcomeStatement">
+  <p id="welcomestatement">
     Welcome, one and all, to the site of Brandon Hewlett. I love what I do, I'm good at it, and I live for the 12-hour coding binge. My mission is simply to become a better developer of any and all types of code.
   </p>
 </div>
