@@ -187,3 +187,7 @@ body{
 	border-width: thin;
 	border-color: black;
 }
+#copyright{
+	color: grey;
+	font-size: smaller;
+}

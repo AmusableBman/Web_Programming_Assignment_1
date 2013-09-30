@@ -5,6 +5,7 @@ require_once 'header.html';
     aboutMeActive();
 </script>
 
+<img src="images/aboutme.jpg">
 
 <?php 
 require_once 'footer.html';
