@@ -5,7 +5,7 @@ require_once 'header.html';
     aboutMeActive();
 </script>
 
-<img src="images/aboutme.jpg" id="self" />
+	<img src="images/aboutme.jpg" id="image" />
 
 <p id="bio">
 	What can I say about myself? Well, I can start by saying that I want to become a video game programmer. 
