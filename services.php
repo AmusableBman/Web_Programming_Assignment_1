@@ -6,10 +6,10 @@ require_once 'header.html';
 </script>
 
 
-<h1>
+<h1 id="serviceshead">
   Products and Services
 </h1>
-<h2>
+<h2 id="producthead">
   Web Development
 </h2>
 <p id="services">
@@ -17,7 +17,7 @@ require_once 'header.html';
   $15/hour
 </p>
 
-<h2>
+<h2 id="producthead">
   Java Development
 </h2>
 <p id="services">
@@ -25,7 +25,7 @@ require_once 'header.html';
   $17/hour
 </p>
 
-<h2>
+<h2 id="producthead">
   Voice Acting
 </h2>
 <p id="services">
@@ -33,7 +33,7 @@ require_once 'header.html';
   $14/hour
 </p><br />
 
-<p>
+<p id="contactmelink">
   Please <a href="contactme.php">contact me</a> by Email about services. 
 </p>
 
