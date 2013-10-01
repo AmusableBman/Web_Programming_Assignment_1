@@ -1,3 +1,8 @@
+<!-- 
+Name: Brandon Hewlett
+Site: Portfolio - Brandon Hewlett
+File: services.php. All the products and services that I offer. 
+-->
 <?php 
 require_once 'header.html';
 ?>

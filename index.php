@@ -1,11 +1,17 @@
+<!-- 
+Name: Brandon Hewlett
+Site: Portfolio - Brandon Hewlett
+File: index.php. Home page. First thing user sees. Project slider, social media. 
+-->
 <?php 
 require_once 'header.html';
 ?>
-
+<!--Call the correct javascript function -->
 <script type="text/javascript">
     homeActive();
 </script>
 
+<!--Welcome message -->
 <div id="welcomeBox">
   <h1 id="welcome">
     Hello, fellow coders!
@@ -19,6 +25,8 @@ require_once 'header.html';
 <!-- 
 Slider from http://codepen.io/AMKohn/pen/EKJHf
 -->
+<!--It technically posts all the images on the webpage at the same time, but the CSS controls which image shows, based on the radio buttons
+Modified to remove next and previous arrows -->
 <div id="slidergroup">
 	<p id="sliderheader">Projects!</p>
 	<ul class="slides">
@@ -74,6 +82,8 @@ Slider from http://codepen.io/AMKohn/pen/EKJHf
 		</li>
 	</ul>
 </div>
+
+<!--Keep Connected Panel -->
 <div id="keepconnected">
 	<p>Keep Connected</p>
 	<a href="https://www.facebook.com/brandon.hewlett.79">Facebook</a>
@@ -81,5 +91,6 @@ Slider from http://codepen.io/AMKohn/pen/EKJHf
 	<a href="https://github.com/AmusableBman">GitHub</a>
 </div>
 <?php 
+//Get the footer
 require_once 'footer.html';
 ?>
